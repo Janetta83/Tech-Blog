@@ -16,7 +16,7 @@
     "bugs": {
       "url": "git+https://github.com/Janetta83/Tech-Blog.git"
     },
-    "homepage": "https://github.com/Janetta83/Tech-Blog"
+    "homepage": "https://github.com/Janetta83/Tech-Blog",
     "dependencies": {
         "bccrypt": "^5.0.1",
         "connect-session-sequelize": "^7.1.2",
